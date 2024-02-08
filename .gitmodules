@@ -1,0 +1,4 @@
+[submodule "extern/mcap"]
+	path = extern/mcap
+	url = https://github.com/foxglove/mcap.git
+
